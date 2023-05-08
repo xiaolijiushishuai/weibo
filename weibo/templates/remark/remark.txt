@@ -5,7 +5,7 @@ ALTER TABLE account MODIFY last_login_status VARCHAR(20)
 2.修改了proxy表
 alter table proxy drop account_count
 
-3.新增了mession表
+3.新增了mession表adsds
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
